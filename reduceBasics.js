@@ -1,0 +1,1 @@
+[2,3,4,5,6,7,34,21].reduce(function(a,b){return(a+b*2)/2})

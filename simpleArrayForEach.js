@@ -1,0 +1,1 @@
+[2,342,213,324,1,24,46].forEach(function(e){result.push(e*e)})
