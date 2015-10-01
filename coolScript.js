@@ -1,4 +1,4 @@
-"function titleCase(title, minorWords) {
+function titleCase(title, minorWords) {
   var check = title || '';
   if (check == '') {
     return ''
